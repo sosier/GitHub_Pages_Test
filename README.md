@@ -2,4 +2,4 @@
 
 Hello world!
 
-Do my theme work?
+Does my theme work?
